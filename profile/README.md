@@ -2,8 +2,11 @@
 
 Dokumentation i form af vejledninger og best practice er ved at blive udarbejdet, men der findes allerede en lille smule.
 
-For brugere og area-admins henvises der til wiki'en i repositoriet: Community-GitHubManagement
+For brugere og area-admins findes det her: https://github.com/RegionH/Community-GitHubManagement/wiki
 
-For GitHub-admins henvises der til wiki'en i repositoriet: Admin-InternalAdministration
+For GitHub-admins findes det her: https://github.com/RegionH/Admin-InternalAdministration/wiki
 
-Med venlig hilsen GitHub gruppen
+Oplever du problemer eller har du spørgsmål, kan der oprettes en sag til GitHub gruppen via Service Now.
+
+Med venlig hilsen 
+GitHub gruppen
