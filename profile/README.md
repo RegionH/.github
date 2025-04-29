@@ -2,5 +2,5 @@
 
 Link til [Velkomst, overblik og nyheder](https://github.com/RegionH/Community-GitHubManagement)
 
-Med venlig hilsen 
+Med venlig hilsen<br> 
 GitHub administratorgruppen
